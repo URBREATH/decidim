@@ -208,3 +208,21 @@ image::https://opencollective.com/decidim/tiers/partner.svg?avatarHeight=36&widt
 == 🎩 Credits
 
 * This project is tested with {uri-browserstack}[BrowserStack].
+
+
+## Dependencies and contacts
+
+|===
+|  | 
+
+| Dependencies
+| PostgreSQL
+
+| Contacts
+| rita.gaeta@eng.it, giuseppe.ciulla@eng.it
+
+| License
+| Open-source
+
+
+
